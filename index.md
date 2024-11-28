@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Hack!
+#title: Hack!
+date: 2024-11-28
 ---
 Test home!
 
