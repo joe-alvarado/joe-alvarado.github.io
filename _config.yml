@@ -32,15 +32,15 @@ github_username:  joe-alvarado
 # Build settings
 #theme: minima
 #plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+ - jekyll-remote-theme
 
 timezone: Europe/London
 
-#ignore_theme_config: true
+ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
