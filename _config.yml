@@ -30,12 +30,13 @@ twitter_username: __joea
 github_username:  joe-alvarado
 
 # Build settings
-theme: jekyll-theme-minima
-plugins:
+#theme: minima
+#plugins:
   - jekyll-feed
 
-minima:
- skin: solarized
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 timezone: Europe/London
 
