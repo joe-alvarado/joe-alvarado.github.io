@@ -31,11 +31,11 @@ github_username:  joe-alvarado
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 
 minima:
- skin: auto
+ skin: solarized
 
 timezone: Europe/London
 
