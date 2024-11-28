@@ -41,7 +41,9 @@ plugins:
 minima:
 skin: auto
 
-ignore_theme_config: true
+timezone: UTC
+
+#ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
