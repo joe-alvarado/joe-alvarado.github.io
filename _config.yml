@@ -30,7 +30,7 @@ twitter_username: __joea
 github_username:  joe-alvarado
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
 
