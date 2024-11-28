@@ -31,10 +31,13 @@ github_username:  joe-alvarado
 
 # Build settings
 theme: minima
-skin: auto
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
+minima:
+skin: auto
+
+skin: auto
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
