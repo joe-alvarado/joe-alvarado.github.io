@@ -28,13 +28,17 @@ twitter_username: __joea
 github_username:  joe-alvarado
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
+
+remote_theme: jekyll/minima
+minima:
+  skin: auto
 
 timezone: Europe/London
 
-ignore_theme_config: true
+#ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
