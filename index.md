@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 #title: Hack!
-date: 2024-11-28
+#date: 2024-11-28
 ---
+
 Test home!
 
 `markup code test`
