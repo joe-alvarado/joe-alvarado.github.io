@@ -38,6 +38,10 @@ minima:
 
 timezone: Europe/London
 
+# Minima date format.
+# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+date_format: "%b-%d-%Y"
+
 #ignore_theme_config: true
 
 # Exclude from processing.
