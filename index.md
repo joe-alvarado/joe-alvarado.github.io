@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 #title: Hack!
 date: 2024-11-28
 ---
