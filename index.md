@@ -16,6 +16,6 @@ markup code block test.
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-    {{ post.date | date: "%Y-%m-%d"}}
+    {{ post.date | date: "%B-%d, -%Y"}}
   {% endfor %}
 </ul>
