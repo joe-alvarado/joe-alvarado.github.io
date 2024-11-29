@@ -36,7 +36,7 @@ remote_theme: jekyll/minima
 minima:
   skin: auto
 
-timezone: Europe/London
+#timezone: Europe/London
 
 # Minima date format.
 # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
