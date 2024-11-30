@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 discord: 
-```
-joe.alvarado
-```
+`joe.alvarado`
