@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Welcome Back!
 ---
 
-# Welcome Back
 Hi, I moved my site to GitHub. Old site had too much going on. I also made it so the site appearance will change depending on your devices light/dark mode. This has been a good learning experience.
 
 `;)`
