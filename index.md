@@ -1,8 +1,9 @@
 ---
 layout: page
 ---
-## Hi,
-I moved my site to github. Old site had too much going on. I also made it so the site appearance will change depending on your devices light/dark mode. This has been a good learning experience.
+
+# Welcome Back
+Hi, I moved my site to GitHub. Old site had too much going on. I also made it so the site appearance will change depending on your devices light/dark mode. This has been a good learning experience.
 
 `;)`
 
