@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Welcome! Hack The Planet!
+Maker and breaker, hacker through and through.
