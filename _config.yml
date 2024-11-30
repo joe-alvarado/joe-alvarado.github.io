@@ -35,6 +35,12 @@ github_username:  joe-alvarado
 remote_theme: jekyll/minima
 minima:
   skin: auto
+  
+header_pages:
+  - about.md
+  - blog.md
+  - book.md
+  - contact.md  
 
 #Generate social links in footer.
   social_links:
