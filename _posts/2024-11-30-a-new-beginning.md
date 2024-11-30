@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New beginning
+title: A New Beginning
 date: 2024-11-30
 author: Joe A
 ---
