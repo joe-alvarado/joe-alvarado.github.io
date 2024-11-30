@@ -38,7 +38,7 @@ minima:
 
 # Generate social links in footer.
 social_links:
-- { platform: github,         user_url: "https://github.com/joe-alvarado" }
+ - { platform: github,         user_url: "https://github.com/joe-alvarado" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
