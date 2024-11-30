@@ -36,10 +36,9 @@ remote_theme: jekyll/minima
 minima:
   skin: auto
 
-timezone: Europe/London
-
-
-#ignore_theme_config: true
+# Generate social links in footer.
+social_links:
+- { platform: github,         user_url: "https://github.com/joe-alvarado" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
