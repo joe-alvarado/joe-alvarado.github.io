@@ -27,9 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __joea
 github_username:  joe-alvarado
 
-# set timezone
-timezone: Europe/London 
-
 # Build settings
 #theme: minima
 #plugins:
