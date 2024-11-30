@@ -14,6 +14,7 @@ git clone https://github.com/joe-alvarado/joe-alvarado.github.io
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}	
     </li>
     {{ post.date | date: "%B %d, %Y"}}
   {% endfor %}
