@@ -22,7 +22,7 @@ title: joeA.uk
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   through and through.
-#baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __joea
 github_username:  joe-alvarado
@@ -35,11 +35,6 @@ github_username:  joe-alvarado
 remote_theme: jekyll/minima
 minima:
   skin: auto
-
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-  header_pages:
-    - blog.md
 
 #Generate social links in footer.
   social_links:
