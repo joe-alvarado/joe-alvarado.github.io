@@ -6,7 +6,7 @@ permalink: /about/
 Maker and breaker, hacker through and through.
 
 ---
-## Book Recommendations
+##### Book Recommendations
 As someone that grew up always looking for the easy way out of everything, these books changed my life and outlook on the importance of getting shit done:
 ```
 Can’t Hurt Me (David Goggins)
